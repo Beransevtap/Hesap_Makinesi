@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1FB7C10F-7F68-4A6A-8CB7-98C7DCB95668}</ProjectGuid>
+    <ProjectGuid>{817CBF51-B7F5-4C25-94D0-4045750B10E7}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>HesapMakinesi</RootNamespace>
-    <AssemblyName>HesapMakinesi</AssemblyName>
+    <RootNamespace>Hesap_Makinesi</RootNamespace>
+    <AssemblyName>Hesap_Makinesi</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

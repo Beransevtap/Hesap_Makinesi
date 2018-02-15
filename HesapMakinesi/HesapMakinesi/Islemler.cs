@@ -4,20 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HesapMakinesi
+namespace Hesap_Makinesi
 {
+
     class Islemler
     {
+
         float sonuc = 0;
-        public float Toplama(float a, float b)
+        public float Bolme(float a, float b)
         {
-            return sonuc=(a + b);
+            return sonuc = (a / b);
         }
-         
-        public float Cikarma(float a, float b)
-        {
-            return sonuc=(a - b);
-        }
+       
 
     }
+    
 }
